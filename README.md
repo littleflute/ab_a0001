@@ -1,4 +1,4 @@
-[v0.0.2](https://github.com/littleflute/ab_a0001/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/ab_a0001/edit/master/README.md) The million dollar divorce [sound recording] / by RM Johnson. Griot audio
 
 [cd1](cd1)
 
